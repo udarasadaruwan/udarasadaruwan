@@ -12,7 +12,7 @@
     <p>⚡ Fun fact <strong>call me as Stark!</strong></p>
   </div>
   <div>
-    <img src="your-gif-url-here.gif" alt="fun gif" style="width: 200px; border-radius: 5px;"/>
+    <img src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" alt="fun gif" style="width: 200px; border-radius: 5px;"/>
   </div>
 </div>
 
