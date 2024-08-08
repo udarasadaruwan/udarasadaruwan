@@ -17,7 +17,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.webp">
+  <img align="center" alt="Coding" width="450" src="https://media.gifdb.com/coding-walking-cat-17mitwkziw2xzxxk.gif">
   
   </td>
 
