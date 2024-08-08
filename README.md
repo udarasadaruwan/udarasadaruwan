@@ -25,15 +25,15 @@
 </table>
 
 <hr>
-<h3 align="center">my status:</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<h2 align="center">My status</h3>
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udara18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=udara18&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=udara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/udara-sandaruwan-ug0002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-sandaruwan-ug0002/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23293988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23293988" height="30" width="40" /></a>
