@@ -2,8 +2,8 @@
 <h3 align="left">A passionate full-stack developer from Srilanka</h3>
 <hr>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="position: relative; display: inline-block; width: 100%;">
+  <div style="padding-right: 150px;">
     <p>🔭 I’m currently working on <a href="https://localhost">javaFX student LMS</a></p>
     <p>🌱 I’m currently learning <strong>java OOP concepts, JS</strong></p>
     <p>📝 I am an undergraduate at SLTC | research university</p>
@@ -11,9 +11,7 @@
     <p>📫 How to reach me <strong>sadaruvan449@gmail.com</strong></p>
     <p>⚡ Fun fact <strong>call me as Stark!</strong></p>
   </div>
-  <div>
-    <img src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" alt="fun gif" style="width: 200px; border-radius: 5px;"/>
-  </div>
+  <img src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" alt="fun gif" style="position: absolute; right: 0; top: 0; width: 150px; border-radius: 5px;"/>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
