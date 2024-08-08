@@ -2,12 +2,21 @@
 <h3 align="left">A passionate full-stack developer from Srilanka</h3>
 <hr>
 
-- 🔭 I’m currently working on <a href="https://localhost">javaFX student LMS</a>
-- 🌱 I’m currently learning <strong>java OOP concepts, JS</strong>
-- 📝 I am an undergraduate at SLTC | research university
-- 💬 Ask me about <strong>web development</strong>
-- 📫 How to reach me <strong>sadaruvan449@gmail.com</strong>
-- ⚡ Fun fact <strong>call me as Stark!</strong>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>🔭 I’m currently working on <a href="https://localhost">javaFX student LMS</a></p>
+    <p>🌱 I’m currently learning <strong>Java OOP concepts, JS</strong></p>
+    <p>📝 I am an undergraduate at SLTC | Research University</p>
+    <p>💬 Ask me about <strong>web development</strong></p>
+    <p>📫 How to reach me <strong>sadaruvan449@gmail.com</strong></p>
+    <p>⚡ Fun fact: <strong>Call me Stark!</strong></p>
+  </div>
+  <div>
+    <img src="https://media.gifdb.com/i-m-coding-machine-animation-c85t0so5hpi45qw5.gif" width="300px" alt="I’m a coding machine">
+  </div>
+</div>
+
+<hr>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udara18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
