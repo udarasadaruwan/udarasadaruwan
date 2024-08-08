@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Udara Sandaruwan</h1>
-<h3 align="center">A passionate full-stack developer from Srilanka</h3>
+<h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udara18&label=Profile%20views&color=0e75b6&style=flat" alt="nilupul-madhusanka" /> </p>
 
 <table align="center">
@@ -25,8 +25,8 @@
 </table>
 
 <hr>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<h3 align="center">my status:</h3>
+<div style="display: flex; justify-content: space-between; align-items: center; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udara18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=udara18&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=udara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
