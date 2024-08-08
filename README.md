@@ -1,13 +1,28 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Udara Sandaruwan</h1>
-<h3 align="left">A passionate full-stack developer from Srilanka</h3>
+<h3 align="center">A passionate full-stack developer from Srilanka</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=udara18&label=Profile%20views&color=0e75b6&style=flat" alt="nilupul-madhusanka" /> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently working on <a href="https://localhost">javaFX student LMS</a>
 - 🌱 I’m currently learning <strong>java OOP concepts, JS</strong>
 - 📝 I am an undergraduate at SLTC | research university
 - 💬 Ask me about <strong>web development</strong>
 - 📫 How to reach me <strong>sadaruvan449@gmail.com</strong>
 - ⚡ Fun fact <strong>call me as Stark!</strong>
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/c02b0f68-0687-4d9a-bd0d-651b1d84ed5e">
+  
+  </td>
+
+</tr>
+</table>
 
 <hr>
 
