@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [javaFX student LMS](https://localhost)
 
-- 🌱 I’m currently learning **java oop concepts,JS**
+- 🌱 I’m currently learning **java oop concepts**
 
 - 📝 I am undergraduate at [SLTC |research university](SLTC |research university)
 
