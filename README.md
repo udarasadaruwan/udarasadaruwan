@@ -2,7 +2,7 @@
 <h3 align="left">A passionate full-stack developer from Srilanka</h3>
 <hr>
 
-<div style="position: relative; display: inline-block; width: 100%;">
+<div style="position: relative; display: inline-block; width: 50%;">
   <div style="padding-right: 150px;">
     <p>🔭 I’m currently working on <a href="https://localhost">javaFX student LMS</a></p>
     <p>🌱 I’m currently learning <strong>java OOP concepts, JS</strong></p>
