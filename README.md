@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java oop concepts,JS**
 
-- 📝 I am undergraduate at [SLTC |research university](SLTC |research university)
+- 📝 I am an undergraduate at SLTC|research university
 
 - 💬 Ask me about **web development**
 
