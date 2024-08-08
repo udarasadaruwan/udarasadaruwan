@@ -2,17 +2,19 @@
 <h3 align="left">A passionate full-stack developer from Srilanka</h3>
 <hr>
 
-- 🔭 I’m currently working on [javaFX student LMS](https://localhost)
-
-- 🌱 I’m currently learning **java oop concepts,JS**
-
-- 📝 I am an undergraduate at SLTC | research university
-
-- 💬 Ask me about **web development**
-
-- 📫 How to reach me **sadaruvan449@gmail.com**
-
-- ⚡ Fun fact **call me as Stark!**
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>🔭 I’m currently working on <a href="https://localhost">javaFX student LMS</a></p>
+    <p>🌱 I’m currently learning <strong>java OOP concepts, JS</strong></p>
+    <p>📝 I am an undergraduate at SLTC | research university</p>
+    <p>💬 Ask me about <strong>web development</strong></p>
+    <p>📫 How to reach me <strong>sadaruvan449@gmail.com</strong></p>
+    <p>⚡ Fun fact <strong>call me as Stark!</strong></p>
+  </div>
+  <div>
+    <img src="your-gif-url-here.gif" alt="fun gif" style="width: 200px; border-radius: 5px;"/>
+  </div>
+</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udara18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
