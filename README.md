@@ -27,9 +27,10 @@
 
 <hr>
 <h2 align="center">My status</h2>
-  <img src="https://streak-stats.demolab.com?user=udara18&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=udara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=udara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" width="500" alt="stats graph"  />
 </div>
+<img src="https://streak-stats.demolab.com?user=udara18&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 
 <hr>
 <h2 align="center">Connect with me</h2>
