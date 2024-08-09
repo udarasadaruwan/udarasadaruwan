@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Udara Sandaruwan</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=udara18.udara18&"  />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=udara18&label=Profile%20views&color=0e75b6&style=flat" alt="udara-profile-count" /> </p>
 
 <table align="center">
 <tr border="none">
