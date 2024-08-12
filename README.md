@@ -48,5 +48,5 @@
 <hr>
 
 <h2 align="center">Support</h2>
-<p align="center><a href="https://www.buymeacoffee.com/udara18"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/udara18" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/udara18"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/udara18" /></a></p>
 <br><br>
