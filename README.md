@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Udara Sandaruwan</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=udara18&label=Profile%20views&color=8e44ad&style=flat" alt="udara-profile-count" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=udarasadaruwan&label=Profile%20views&color=8e44ad&style=flat" alt="udara-profile-count" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -33,13 +33,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=udara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=udarasadaruwan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <br></br>
-  <img src="https://streak-stats.demolab.com?user=udara18&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=udarasadaruwan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara18&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarasadaruwan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
