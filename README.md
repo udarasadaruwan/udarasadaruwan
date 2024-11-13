@@ -8,8 +8,8 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on <a href="https://localhost">javaFX student LMS</a>
-- 🌱 I’m currently learning <strong>java OOP concepts, JS</strong>
+- 🔭 I’m currently working on <a href="https://localhost">My portfolio site</a>
+- 🌱 I’m currently learning <strong>java, react, JS</strong>
 - 📝 I am an undergraduate at SLTC | research university
 - 💬 Ask me about <strong>web development</strong>
 - 📫 How to reach me <strong>sadaruvan449@gmail.com</strong>
